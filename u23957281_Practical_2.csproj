@@ -151,6 +151,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="HTML\Andani.html" />
     <Content Include="HTML\Dakalo.html" />
+    <Content Include="HTML\Images\black-widow-1.jpg" />
     <Content Include="HTML\Jane.html" />
     <Content Include="HTML\John.html" />
     <Content Include="HTML\Vhuthuhawe.html" />
@@ -160,6 +161,16 @@
     <Content Include="Scripts\bootstrap.esm.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="HTML\Images\hawkeye.webp" />
+    <Content Include="HTML\Images\peter-parker-Cropped.webp" />
+    <Content Include="HTML\Images\steve-rogers.webp" />
+    <Content Include="HTML\Images\The-Incredible-Hulk.webp" />
+    <Content Include="HTML\Images\thor-lightning.webp" />
+    <Content Include="HTML\Images\tony-stark-iron-man.webp" />
+    <Content Include="HTML\Images\Vision-Civil-War-Cropped.webp" />
+    <Content Include="HTML\Images\Wanda-Scarlet-Witch-Cropped.webp" />
+    <Content Include="HTML\Images\Anthony-Mackie-Captain-America-4.webp" />
+    <Content Include="HTML\Images\antman-and-the-wasp-marvel-4.webp" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -189,7 +200,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="HTML\Images\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
